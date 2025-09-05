@@ -1,0 +1,134 @@
+[
+    {
+        "muxId": 201,
+        "status": true
+    },
+    {
+        "muxId": 202,
+        "status": true
+    },
+    {
+        "muxId": 203,
+        "status": false
+    },
+    {
+        "muxId": 204,
+        "status": true
+    },
+    {
+        "muxId": 205,
+        "status": true
+    },
+    {
+        "muxId": 206,
+        "status": true
+    },
+    {
+        "muxId": 207,
+        "status": true
+    },
+    {
+        "muxId": 208,
+        "status": true
+    },
+    {
+        "muxId": 209,
+        "status": true
+    },
+    {
+        "muxId": 210,
+        "status": true
+    },
+    {
+        "muxId": 211,
+        "status": true
+    },
+    {
+        "muxId": 212,
+        "status": true
+    },
+    {
+        "muxId": 213,
+        "status": true
+    },
+    {
+        "muxId": 214,
+        "status": true
+    },
+    {
+        "muxId": 215,
+        "status": true
+    },
+    {
+        "muxId": 216,
+        "status": false
+    },
+    {
+        "muxId": 217,
+        "status": true
+    },
+    {
+        "muxId": 218,
+        "status": true
+    },
+    {
+        "muxId": 301,
+        "status": true
+    },
+    {
+        "muxId": 302,
+        "status": false
+    },
+    {
+        "muxId": 303,
+        "status": false
+    },
+    {
+        "muxId": 304,
+        "status": false
+    },
+    {
+        "muxId": 305,
+        "status": false
+    },
+    {
+        "muxId": 306,
+        "status": false
+    },
+    {
+        "muxId": 307,
+        "status": false
+    },
+    {
+        "muxId": 308,
+        "status": false
+    },
+    {
+        "muxId": 309,
+        "status": false
+    },
+    {
+        "muxId": 310,
+        "status": true
+    },
+    {
+        "muxId": 311,
+        "status": false
+    },
+    {
+        "muxId": 312,
+        "status": false
+    },
+    {
+        "muxId": 401,
+        "status": false
+    },
+    {
+        "muxId": 402,
+        "status": false
+    },
+    {
+        "muxId": 403,
+        "status": false
+    }
+]

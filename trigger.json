@@ -1,0 +1,62 @@
+{
+    "Connector1": {
+        "action": "none",
+        "EVMaxVoltage": 50,
+        "EVMaxCurrent": 180
+    },
+    "Connector2": {
+        "action": "none",
+        "EVMaxVoltage": 50,
+        "EVMaxCurrent": 180
+    },
+    "Connector3": {
+        "action": "none",
+        "EVMaxVoltage": 0,
+        "EVMaxCurrent": 0
+    },
+    "Connector4": {
+        "action": "none",
+        "EVMaxVoltage": 50,
+        "EVMaxCurrent": 120
+    },
+    "Connector5": {
+        "action": "none",
+        "EVMaxVoltage": 0,
+        "EVMaxCurrent": 0
+    },
+    "Connector6": {
+        "action": "none",
+        "EVMaxVoltage": 0,
+        "EVMaxCurrent": 0
+    },
+    "Connector7": {
+        "action": "none",
+        "EVMaxVoltage": 0,
+        "EVMaxCurrent": 0
+    },
+    "Connector8": {
+        "action": "none",
+        "EVMaxVoltage": 0,
+        "EVMaxCurrent": 0
+    },
+    "Connector9": {
+        "action": "none",
+        "EVMaxVoltage": 0,
+        "EVMaxCurrent": 0
+    },
+    "Connector10": {
+        "action": "none",
+        "EVMaxVoltage": 0,
+        "EVMaxCurrent": 0
+    },
+    "Connector11": {
+        "action": "none",
+        "EVMaxVoltage": 0,
+        "EVMaxCurrent": 0
+    },
+    "Connector12": {
+        "action": "none",
+        "EVMaxVoltage": 0,
+        "EVMaxCurrent": 0
+    }
+}
